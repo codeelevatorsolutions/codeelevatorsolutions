@@ -1,16 +1,36 @@
-## Hi there 👋
+# Code Elevator Solutions
 
-<!--
-**codeelevatorsolutions/codeelevatorsolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Shopify Development | eCommerce Solutions | AI & Web Development**
 
-Here are some ideas to get you started:
+Code Elevator Solutions helps businesses build, customize, and grow their digital presence through Shopify development and modern software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Our Services
+
+### Shopify Development — Our Primary Focus
+- Shopify store development and customization
+- Shopify theme development
+- Shopify Plus development
+- eCommerce integrations and optimization
+- Shopify website design and development
+
+### Other Development Services
+- Full-stack development
+- Dedicated developer hiring
+- AI and generative AI development
+- AI workflow automation
+- AI voice agent development
+- Custom web application development
+
+## Who We Help
+
+We support startups, eCommerce brands, growing businesses, and teams seeking development expertise for their digital projects.
+
+## Explore Our Website
+
+Visit [Code Elevator Solutions](https://codeelevatorsolutions.com/) to learn more about our services.
+
+For business enquiries: inquiry@codeelevatorsolutions.com
+
+---
+
+*Building better digital experiences through practical development solutions.*
