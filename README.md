@@ -28,6 +28,7 @@ We support startups, eCommerce brands, growing businesses, and teams seeking dev
 ## Explore Our Website
 
 Visit [Code Elevator Solutions](https://codeelevatorsolutions.com/) to learn more about our services.
+https://codeelevatorsolutions.com/blog/custom-shopify-store-cost-in-2026/
 
 For business enquiries: inquiry@codeelevatorsolutions.com
 
